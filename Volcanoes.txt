@@ -1,13 +1,3 @@
-
-
-
-
-
-
-
-
-
-
 Squaw Ridge Lava Field,US-Oregon,Holocene?,1711.000000000000000,Volcanic field,?,43.4719009,-120.7509995
 
 Four Craters Lava Field,US-Oregon,Holocene?,1501.000000000000000,Volcanic field,?,43.3609009,-120.6610031
@@ -83,9 +73,3 @@ Uinkaret Field,US-Arizona,Anthropology,1555.000000000000000,Volcanic field,D6,36
 Lavic Lake,US-California,Holocene?,1495.000000000000000,Volcanic field,?,34.7500000,-116.6210022
 
 Valles Caldera,US-New Mexico,Pleistocene-Fumarolic,3430.000000000000000,Caldera,Q,35.8699989,-106.5709991
-
-
-
-
-
-
